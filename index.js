@@ -2,9 +2,6 @@ const start = document.querySelector('.start');
 let title = document.querySelector('.title');
 let buttons = document.querySelector('.buttons');
 
-let less = document.querySelector('.down');
-
-
 
 let number = 50;
 let tries = 0;
